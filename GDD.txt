@@ -1,0 +1,28 @@
+Characters:
+	
+Muumi 		-bigger explosion DONE
+Snorkis		-place shield	DONE	
+Snorken		-turret, looks like zeppelin  DONE
+Lilla My	-Barrelroll DONE
+Sniff		-capitalism DONE
+Hemulen		-shoot three flowers in a row  DONE
+Haisuli		-Inverse movement direction  DONE
+Snusis		-pull player towards snusis DONE
+Filifjonka	-send children to attack, suicide squad  DONE
+Pappa		-Shotgun sniper  DONE
+Mamma 		-Feed cake, become bigger  DONE
+Tuutikki	-heal  DONE
+Noita		-Lock player into small square DONE
+Trollkarln	-Reflect DONE
+Biisamirotta	-throw cake bomb DRAWN
+Poliisi		-stop shooting  DONE
+Postiljooni	-speed boost DONE
+Aliisa		-leave patches on ground after grenade impact DONE
+Ninni		-invisible  DONE
+T.o.V		-split into two characters DONE
+Morran 		-Freeze DONE
+
+
+TO DO:
+Fix Main Menu Image
+Set start enum
