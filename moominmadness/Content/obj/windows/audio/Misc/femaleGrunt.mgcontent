@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/MoominMadness/MoominMadness/Content/Audio/Misc/femaleGrunt.wav</SourceFile>
+  <SourceTime>2017-05-28T20:33:04.9324233+02:00</SourceTime>
+  <DestFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/MoominMadness/MoominMadness/Content/bin/Windows/Audio/Misc/femaleGrunt.xnb</DestFile>
+  <DestTime>2017-05-28T20:35:41.3581371+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

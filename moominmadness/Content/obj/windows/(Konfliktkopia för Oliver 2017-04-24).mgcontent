@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/shadow.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/MoomiSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Maps/GameField.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Bullets/Bullet.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/HealthBar.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/StatsBar.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/StatsFont.spritefont</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/Button.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Bullets/Explosion.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/Hattifnatters.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/CharacterMenu.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/PlayerSelectionFrame.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/Bubble.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/SnorkmaidenSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/SpecialAbilityInfoFont.spritefont</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/UI/IngameMenu.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Misc/Blood.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/MammaSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/PappaSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/FillyfjonkaSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/FilifjonkaChildSprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/NinnySprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/StinkySprite.png</File>
+    <File>C:/Users/Oliver/Dropbox/Spel/MoominMadness/MoominMadness/Content/Characters/TootikkiSprite.png</File>
+  </SourceFiles>
+</SourceFileCollection>

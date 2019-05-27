@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/MoominMadness/MoominMadness/Content/FuturaHandwritten.spritefont</SourceFile>
+  <SourceTime>2017-05-28T20:33:04.6479228+02:00</SourceTime>
+  <DestFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/MoominMadness/MoominMadness/Content/bin/Windows/FuturaHandwritten.xnb</DestFile>
+  <DestTime>2017-05-28T20:35:32.6346837+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
